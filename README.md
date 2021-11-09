@@ -1,5 +1,8 @@
 
 ## Instructions
+Create a .env file for the configurations from the .env.example
+Put the NY Times API Key as **REACT_APP_API_KEY**
+
 ### 1`cd news-today`
 To get into the project folder
 
