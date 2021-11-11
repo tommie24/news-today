@@ -24,3 +24,16 @@ To run the tests
 ### `yarn build`
 To build the app
 
+
+
+![Homepage](https://github.com/tommie24/news-today/blob/main/public/nt-homepage.png)
+
+
+![Article Detailed Page](https://github.com/tommie24/news-today/blob/main/public/nt-detailed.png)
+
+
+![30 Days Most Popular](https://github.com/tommie24/news-today/blob/main/public/nt-30.png)
+
+
+
+
